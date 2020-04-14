@@ -1,0 +1,7 @@
+name: Sit_by_Marvin2k0
+author: Marvin2k0
+version: 1.0
+main: de.marvin2k0.sit.SitPlugin
+commands:
+  sit:
+    permission: command.sit
